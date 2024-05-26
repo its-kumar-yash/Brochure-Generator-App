@@ -2,6 +2,12 @@
 
 This project is a web application for generating and storing brochure for real estate properties. It includes a front-end built with React.js and a back-end built with Flask, which interacts with the Supabase database and an LLM text generation API.
 
+## Repository
+### [Frontend](https://github.com/its-kumar-yash/brochure-frontend)
+### [Backend](https://github.com/its-kumar-yash/brochure-backend)
+
+
+
 ## Demo Video
 ### [Click Here](https://drive.google.com/file/d/1kO7I_1n_b-eyOzPvOB-55Q3RzlUbk45O/view?usp=sharing)
 
@@ -24,11 +30,6 @@ This project is a web application for generating and storing brochure for real e
 - Supabase account
 - Eden AI API key
 
-### Clone the Repository
-```
-git clone https://github.com/its-kumar-yash/Brochure-Generator-App
-cd Brochure-Generator
-```
 
 ### Backend Setup
 1. Navigate to the backend directory:
